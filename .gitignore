@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+Feature.md
+timeline.md
+
+# Build output
+dist/
+build/
+
+
+# OS/Editor files
+.DS_Store
+.vscode
